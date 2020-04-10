@@ -2,7 +2,7 @@ title: John Doe # your name (or website title) here
 logo: "/images/me.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Hi! Here's a little about me I am a machine learning and deep learning enthusiast. Currently pursuing a Masters in Electrical engineering where I get to specialise and learn all about how to build and apply ML models to real world scenarios. <br>
   Second description 
   <br><br>
   <a href="www.linkedin.com/in/vikarn-bhakri">View My LinkedIn Profile</a> 
