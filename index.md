@@ -16,6 +16,8 @@
 <img src="images/aux_img.png?raw=true"/>
 
 ---
+[My Very Own SGD Optimizer](https://github.com/bhakriboy/mini-batch-sgd-mnist)
+<img src="images/sgd.png?raw=true"/>
 
 
 
